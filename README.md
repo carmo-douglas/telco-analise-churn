@@ -50,6 +50,7 @@ telco-analise-churn/
 ├── .gitignore
 └── README.md
 
+```
 ## 👤 Autor
 
 Desenvolvido por **Douglas Carmo dos Santos**.
